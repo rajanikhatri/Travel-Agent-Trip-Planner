@@ -1,7 +1,7 @@
 # Travel Agent Trip Planner
 This project implements a travel agent's trip planner using graphs to efficiently plan round trips between cities with flight connections. The planner allows clients to specify a starting city and destination city, and then generates a round trip itinerary including transit cities where direct connections are unavailable.
 
-![Graph Example](<img width="469" alt="Screenshot 2024-07-02 at 9 35 02 AM" src="https://github.com/rajanikhatri/Travel-Agent-Trip-Planner/blob/main/Image/Graph.jpeg">)
+![Graph image]()
 
 
 ## Features
