@@ -1,5 +1,5 @@
 # Travel Agent Trip Planner
-This project implements a travel agent's trip planner using graphs to efficiently plan round trips between cities with flight connections. The planner allows clients to specify a starting city and destination city, and then generates a round trip itinerary including transit cities where direct connections are unavailable.
+This project implements a travel agent's trip planner using graphs to efficiently plan round trips between cities with flight connections. The planner allows clients to specify a starting city and destination city, and then generates a round trip itinerary including transit cities where direct connections are unavailable. By leveraging graph theory, the solution optimizes pathfinding algorithms to calculate the most cost-effective routes and ensure seamless travel planning for users. This project can be tested and run using tools like **Visual Studio Code** or **IntelliJ IDEA**.
 
 ![Graph image](Image/Graph.jpeg)
 
@@ -34,6 +34,7 @@ This project implements a travel agent's trip planner using graphs to efficientl
 - `userPrompt()` method obtains user input for start and destination cities.
 - Creates `RoundTripPlanner` instance and invokes `printRoundTrip()` method to display travel itinerary.
 - `verifyRoundTrip()` method validates that the generated round trip meets the travel agent's planning criteria.
+- 
 
 ### Implementation Notes
 
